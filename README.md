@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Abdul Rehman Ansari 👋
 
-<!--
-**abdulrehman2108/abdulrehman2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst
+🐍 Python | SQL | Power BI | Excel
+📈 Business Intelligence & Analytics
 
-Here are some ideas to get you started:
+Featured Projects:
+• Mutual Fund Analytics Platform
+• Sales Performance Analytics
+• Customer Behavior Analytics
+• Ferns & Petals Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+• Advanced SQL
+• Data Warehousing
+• Analytics Engineering
