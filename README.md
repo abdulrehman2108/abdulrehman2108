@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # Abdul Rehman Ansari
 
 Data Analyst focused on transforming raw data into actionable business insights through Python, SQL, Power BI, and Excel.
