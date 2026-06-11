@@ -36,5 +36,5 @@ Data Analyst-Big 4 Ready : https://www.oneroadmap.io/skills/data-analyst-big4/ce
 
 ## Connect With Me
 
-LinkedIn: linkedin.com/in/abdul-rehman-ansari-22630928b
+LinkedIn: https://linkedin.com/in/abdul-rehman-ansari-22630928b
 Email: abdulrehmann2108@gmail.com
